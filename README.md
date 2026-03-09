@@ -18,7 +18,7 @@
 ## Blog
 
 ## Videos
-
+- [CS50x 2024 - Lecture 1 - C](https://youtu.be/cwtpLIWylAw?si=5HN_Ob8_fS3AtR4d)
 - [How I program C by Eskil Steenberg](https://youtu.be/443UNeGrFoM?si=-Ryo1qd9Tf_cFJ3P)
 
 ### Value Categories
