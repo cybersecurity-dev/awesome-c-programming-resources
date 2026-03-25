@@ -13,9 +13,19 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/C_Programming/new/)
 
 
+## 📖 Contents
+- [Books](#books)
+- [Blogs](#blogs)
+- [Videos](#videos)
+- [Reference](#reference)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
+## Books
+* [C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 
-## Blog
+## Blogs
 
 ## Videos
 - [CS50x 2024 - Lecture 1 - C](https://youtu.be/cwtpLIWylAw?si=5HN_Ob8_fS3AtR4d)
@@ -31,3 +41,17 @@
 
 
 ## Reference
+
+
+##
+
+### My Other Awesome Lists
+You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
+
+### Contributing
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-c-programming-resources/graphs/contributors)!
+
+[🔼 Back to top](#awesome-c-programming-resources-)
