@@ -24,6 +24,9 @@
 
 ## Books
 * [C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+* [C Programming Absolute Beginner's Guide](https://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984)
+* [C Programming: A Modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
+* [Effective C : An Introduction to Professional C Programming](https://www.amazon.com/Effective-2nd-Introduction-Professional-Programming/dp/1718504128/)
 
 ## Blogs
 
