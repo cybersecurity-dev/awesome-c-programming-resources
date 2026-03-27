@@ -27,6 +27,9 @@
 * [C Programming Absolute Beginner's Guide](https://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984)
 * [C Programming: A Modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
 * [Effective C : An Introduction to Professional C Programming](https://www.amazon.com/Effective-2nd-Introduction-Professional-Programming/dp/1718504128/)
+* [Practical C Programming: Why Does 2+2 = 5986? (Nutshell Handbooks)](https://www.amazon.com/Practical-Programming-Does-Nutshell-Handbooks/dp/1565923065/)
+* [C Pocket Reference](https://www.amazon.com/C-Pocket-Reference-Peter-Prinz/dp/0596004362/)
+* [Expert C Programming: Deep Secrets](https://www.amazon.com/Expert-C-Programming-Deep-Secrets-ebook/dp/B00E0LASCU/)
 
 ## Blogs
 
