@@ -1,7 +1,7 @@
 <div align="center">
     <p align="center">
-        <a href="https://wikipedia.org/wiki/C_standard">
-          <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/C_logo.svg" />
+        <a href="https://github.com/cybersecurity-dev/awesome-c-programming-language">
+          <img width="8%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/C_logo.svg" />
         </a>
     </p>
 
@@ -11,7 +11,6 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/C_Programming/new/)
-
 
 ## 📖 Contents
 - [Books](#books)
@@ -36,6 +35,8 @@
 ## Videos
 - [CS50x 2024 - Lecture 1 - C](https://youtu.be/cwtpLIWylAw?si=5HN_Ob8_fS3AtR4d)
 - [How I program C by Eskil Steenberg](https://youtu.be/443UNeGrFoM?si=-Ryo1qd9Tf_cFJ3P)
+- [Tips for C Programming by Nic Barker](https://youtu.be/9UIIMBqq1D4?si=zEWJlIhn_5VoOmAG)
+- [extern c: Talking to C Programmers about C++ by Dan Saks](https://youtu.be/D7Sd8A6_fYU?si=SsoOOWUhv723hGpj)
 
 ### Value Categories
 
