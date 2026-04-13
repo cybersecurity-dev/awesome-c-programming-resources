@@ -37,6 +37,7 @@
 - [How I program C by Eskil Steenberg](https://youtu.be/443UNeGrFoM?si=-Ryo1qd9Tf_cFJ3P)
 - [Tips for C Programming by Nic Barker](https://youtu.be/9UIIMBqq1D4?si=zEWJlIhn_5VoOmAG)
 - [extern c: Talking to C Programmers about C++ by Dan Saks](https://youtu.be/D7Sd8A6_fYU?si=SsoOOWUhv723hGpj)
+- [C is So Back: Unbreaking the Charter by Björkus Dorkus](https://youtu.be/zLyz4kJvkvQ?si=o2759zzmUc0quVnr)
 
 ### Value Categories
 
