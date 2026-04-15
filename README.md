@@ -39,6 +39,8 @@
 - [extern c: Talking to C Programmers about C++ by `Dan Saks`](https://youtu.be/D7Sd8A6_fYU?si=SsoOOWUhv723hGpj)
 - [C is So Back: Unbreaking the Charter by `Björkus Dorkus`](https://youtu.be/zLyz4kJvkvQ?si=o2759zzmUc0quVnr)
 - [Advice for Writing Small Programs in C by `Sean Barrett`](https://youtu.be/eAhWIO1Ra6M?si=BybQtPH_LWy-_TSI)
+- [Programming in Modern C with a Sneak Peek into C23 by `Dawid Zalewski`](https://youtu.be/lLv1s7rKeCM?si=FXLzWT0EZqfcj3z0)
+
 ### Value Categories
 
 
