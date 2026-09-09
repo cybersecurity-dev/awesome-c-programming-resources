@@ -12,6 +12,36 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/C_Programming/new/)
 
+```mermaid
+flowchart TD
+
+A[C Standard Library]
+
+A --> B[stdio.h]
+A --> C[stdlib.h]
+A --> D[string.h]
+A --> E[math.h]
+A --> F[time.h]
+A --> G[ctype.h]
+A --> H[signal.h]
+
+B --> B1[printf]
+B --> B2[scanf]
+B --> B3[fopen]
+
+C --> C1[malloc]
+C --> C2[free]
+C --> C3[qsort]
+
+D --> D1[strcpy]
+D --> D2[strlen]
+D --> D3[strcmp]
+
+E --> E1[sin]
+E --> E2[cos]
+E --> E3[sqrt]
+```
+
 ## 📖 Contents
 - [Books](#books)
 - [Blogs](#blogs)
@@ -47,8 +77,75 @@
 
 ### Security
 
+```mermaid
+flowchart TD
+
+A[C Security]
+
+A --> B[Memory Layout]
+
+B --> C[Buffers]
+
+C --> D[Stack]
+
+C --> E[Heap]
+
+D --> F[Buffer Overflow Concepts]
+
+E --> G[Heap Corruption Concepts]
+
+F --> H[Mitigations]
+
+G --> H
+
+H --> I[ASLR]
+
+H --> J[DEP NX]
+
+H --> K[Stack Canaries]
+
+H --> L[Secure Coding]
+
+L --> M[Code Review]
+
+M --> N[Static Analysis]
+
+N --> O[Fuzz Testing]
+
+style A fill:#e74c3c,color:#fff
+style H fill:#3498db,color:#fff
+style O fill:#2ecc71,color:#fff
+```
 
 ### Memory
+
+```mermaid
+flowchart TD
+
+A[Process Memory]
+
+A --> B[Text Segment]
+A --> C[Data Segment]
+A --> D[BSS Segment]
+A --> E[Heap]
+A --> F[Stack]
+
+B --> B1[Executable Code]
+
+C --> C1[Initialized Globals]
+
+D --> D1[Uninitialized Globals]
+
+E --> E1[Dynamic Allocation]
+
+F --> F1[Local Variables]
+
+style B fill:#3498db,color:#fff
+style C fill:#2ecc71,color:#fff
+style D fill:#f1c40f,color:#000
+style E fill:#e74c3c,color:#fff
+style F fill:#9b59b6,color:#fff
+```
 - [Understanding the C runtime memory model](https://youtu.be/3F3lp_F2YpQ?si=uM2zf6Sg5GcoPKoH)
 
 ## Reference
